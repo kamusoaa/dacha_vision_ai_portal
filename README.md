@@ -1,1 +1,0 @@
-# dacha_vision_ai_portal
